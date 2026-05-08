@@ -1,4 +1,4 @@
-# Linux Forensics: Investigating a Crypto-Mining Compromise
+# Endpoint Forensics: Investigating a Crypto-Mining Compromise
 
 Welcome back, my aspiring digital forensic investigators!
 
